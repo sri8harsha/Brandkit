@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+static/logos/
+branding_tool.db
+.DS_Store 
