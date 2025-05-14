@@ -1,6 +1,6 @@
-# brandkit
+# Brandkit
 
-A no-login AI-powered branding tool. Instantly generate marketing content, visuals, and manage your brand kit.
+AI-powered branding tool. Instantly generate marketing content, visuals, and manage your brand kit.
 
 ## Features
 
